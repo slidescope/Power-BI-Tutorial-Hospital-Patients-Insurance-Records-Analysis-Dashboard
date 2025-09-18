@@ -1,0 +1,351 @@
+Patient_ID,Age,Days_Admitted,Test_Results_Score,Medical_Bill_Amount,Gender,Department,Insurance_Type,Treatment_Outcome
+P1001,32,53,57.5,5765.85,Female,Orthopedics,Government,Critical
+P1002,30,29,47.9,6410.21,Male,General Medicine,Private,Recovered
+P1003,88,22,59.7,6171.12,Female,Oncology,Government,Improved
+P1004,43,31,72.8,7606.72,Male,Neurology,Private,Deceased
+P1005,27,52,46.5,5731.78,Other,Orthopedics,None,Deceased
+P1006,1,45,46.5,4327.93,Male,Oncology,Government,Improved
+P1007,7,50,73.7,9120.01,Male,Orthopedics,None,Improved
+P1008,69,22,61.5,6883.93,Female,Orthopedics,None,Recovered
+P1009,68,13,43.0,5461.66,Male,Orthopedics,None,Improved
+P1010,14,57,58.1,7838.81,Other,Neurology,None,Deceased
+P1011,30,16,43.0,4985.58,Female,Pediatrics,None,Critical
+P1012,67,46,43.0,4867.61,Female,Neurology,None,Critical
+P1013,8,15,53.6,5385.38,Female,Pediatrics,None,Improved
+P1014,4,33,21.3,2674.53,Male,General Medicine,Government,Deceased
+P1015,81,11,24.1,3516.76,Other,Oncology,None,Critical
+P1016,60,42,41.6,5085.93,Other,General Medicine,None,Recovered
+P1017,84,22,34.8,3753.68,Other,Pediatrics,Private,Critical
+P1018,88,41,54.7,4937.86,Male,Cardiology,None,Improved
+P1019,18,27,36.4,4091.25,Other,Oncology,None,Recovered
+P1020,47,58,28.8,3695.29,Female,Oncology,Government,Improved
+P1021,7,25,72.0,9062.49,Female,Neurology,None,Recovered
+P1022,20,2,46.6,5957.95,Male,Pediatrics,Private,Improved
+P1023,7,42,51.0,4836.99,Male,Orthopedics,Private,Deceased
+P1024,39,43,28.6,3411.61,Male,Oncology,Private,Critical
+P1025,53,42,41.8,4178.49,Other,Cardiology,Government,Critical
+P1026,25,4,51.7,6673.54,Other,Pediatrics,Private,Recovered
+P1027,29,24,32.7,3451.21,Female,Orthopedics,None,Improved
+P1028,19,47,55.6,6447.88,Female,Pediatrics,Government,Improved
+P1029,47,36,41.0,4800.35,Other,Oncology,Private,Improved
+P1030,70,25,45.6,5457.67,Male,Cardiology,Private,Improved
+P1031,89,27,41.0,4001.41,Male,Neurology,None,Recovered
+P1032,83,22,77.8,8127.93,Male,General Medicine,Private,Critical
+P1033,43,31,49.8,5493.38,Other,Cardiology,Government,Deceased
+P1034,45,27,34.1,4278.08,Female,Orthopedics,Private,Deceased
+P1035,58,8,62.3,6137.58,Other,Oncology,Private,Recovered
+P1036,60,50,31.7,4540.69,Female,Orthopedics,Government,Improved
+P1037,74,32,53.1,6893.81,Other,Pediatrics,Private,Critical
+P1038,35,28,20.6,2938.51,Female,General Medicine,Government,Deceased
+P1039,1,39,30.1,3351.22,Other,Oncology,Government,Critical
+P1040,64,1,53.0,5635.97,Male,Orthopedics,None,Critical
+P1041,40,26,61.1,6349.77,Other,Pediatrics,Private,Critical
+P1042,30,21,52.6,6138.4,Female,Cardiology,Private,Improved
+P1043,38,26,48.3,5072.86,Other,Neurology,None,Recovered
+P1044,38,36,45.5,4909.83,Female,Cardiology,Government,Recovered
+P1045,49,14,27.8,3430.57,Female,Neurology,Private,Recovered
+P1046,31,25,39.2,4012.23,Female,Neurology,Private,Recovered
+P1047,1,15,43.1,3851.17,Female,Orthopedics,Private,Improved
+P1048,18,6,65.9,6442.55,Male,Oncology,None,Recovered
+P1049,25,19,55.2,5983.35,Female,Cardiology,None,Improved
+P1050,58,20,23.6,3168.52,Male,Pediatrics,None,Improved
+P1051,24,49,54.9,7363.04,Female,Cardiology,Government,Critical
+P1052,47,14,44.2,4192.81,Male,Cardiology,Government,Deceased
+P1053,22,56,39.8,4579.97,Male,Oncology,Private,Improved
+P1054,12,8,59.2,6836.49,Male,Orthopedics,None,Deceased
+P1055,29,10,65.5,7645.86,Other,Oncology,Private,Critical
+P1056,64,41,64.0,5816.67,Male,Orthopedics,Government,Improved
+P1057,60,40,37.4,4380.82,Female,Orthopedics,None,Recovered
+P1058,40,10,45.4,4386.78,Other,Orthopedics,Private,Improved
+P1059,20,16,55.0,6945.46,Male,Cardiology,Government,Improved
+P1060,32,46,64.6,8017.8,Other,Orthopedics,None,Deceased
+P1061,11,5,42.8,5354.02,Other,Cardiology,None,Deceased
+P1062,12,23,47.2,4102.08,Other,Orthopedics,None,Recovered
+P1063,27,16,33.4,4069.57,Male,Oncology,None,Deceased
+P1064,70,4,32.1,3250.39,Female,Pediatrics,Government,Deceased
+P1065,81,43,62.2,6676.35,Male,Orthopedics,None,Critical
+P1066,90,16,70.3,9182.22,Other,Cardiology,None,Recovered
+P1067,17,38,48.9,6412.87,Male,Cardiology,None,Critical
+P1068,3,20,65.1,7673.83,Female,Oncology,None,Improved
+P1069,21,41,55.4,4952.91,Female,Cardiology,Private,Improved
+P1070,85,23,40.3,4147.27,Male,Cardiology,Government,Deceased
+P1071,33,49,55.4,5094.61,Female,Neurology,Private,Critical
+P1072,24,24,73.1,6958.3,Other,General Medicine,Government,Recovered
+P1073,77,24,49.5,4762.23,Female,Orthopedics,None,Deceased
+P1074,49,53,73.5,6849.7,Male,Orthopedics,Private,Critical
+P1075,62,23,10.7,1438.84,Male,Cardiology,Government,Deceased
+P1076,31,4,62.3,7936.03,Male,Pediatrics,Government,Recovered
+P1077,15,35,51.3,4384.44,Male,General Medicine,Government,Deceased
+P1078,52,22,45.5,5300.73,Other,Neurology,None,Improved
+P1079,75,49,51.4,4995.11,Female,Cardiology,Private,Recovered
+P1080,29,55,20.2,2728.08,Female,Orthopedics,None,Critical
+P1081,18,27,46.7,5500.44,Male,Neurology,None,Improved
+P1082,30,2,55.4,5731.7,Female,Neurology,Private,Recovered
+P1083,22,31,72.2,6895.55,Female,General Medicine,None,Recovered
+P1084,82,19,42.2,5253.37,Male,Pediatrics,Government,Improved
+P1085,50,25,37.9,4734.85,Male,Cardiology,None,Deceased
+P1086,22,58,42.5,4987.29,Other,General Medicine,None,Recovered
+P1087,17,39,63.7,7782.13,Female,Pediatrics,Private,Critical
+P1088,35,19,54.9,6057.19,Female,Cardiology,Government,Recovered
+P1089,36,48,42.1,4358.57,Other,Orthopedics,Private,Improved
+P1090,86,10,57.7,6383.28,Other,Neurology,None,Recovered
+P1091,36,4,51.5,5500.21,Male,Cardiology,None,Recovered
+P1092,40,34,64.5,6913.21,Female,Orthopedics,Government,Improved
+P1093,22,7,39.5,4603.55,Other,Orthopedics,Government,Recovered
+P1094,43,19,45.1,5167.54,Other,Neurology,None,Deceased
+P1095,72,50,44.1,4647.31,Female,Oncology,Government,Critical
+P1096,64,26,28.0,3333.75,Male,Orthopedics,None,Recovered
+P1097,63,52,54.4,5317.31,Male,Cardiology,None,Critical
+P1098,16,52,53.9,4874.37,Other,Oncology,None,Deceased
+P1099,81,21,50.1,5548.75,Female,General Medicine,Government,Improved
+P1100,8,52,46.5,5591.99,Other,Neurology,None,Critical
+P1101,41,13,28.8,3881.29,Male,Neurology,None,Critical
+P1102,6,15,43.7,4173.31,Other,General Medicine,Government,Critical
+P1103,40,32,44.9,5999.09,Male,Pediatrics,None,Recovered
+P1104,23,12,38.0,4183.7,Female,Neurology,None,Deceased
+P1105,25,21,47.6,5490.98,Male,Neurology,Private,Critical
+P1106,2,8,56.1,6060.97,Male,Oncology,Government,Improved
+P1107,57,8,78.3,9325.59,Female,Pediatrics,Government,Critical
+P1108,24,30,52.6,6131.15,Other,Cardiology,Government,Recovered
+P1109,10,43,53.9,5368.7,Other,Oncology,None,Critical
+P1110,20,35,48.9,6315.97,Male,Orthopedics,Government,Deceased
+P1111,11,6,21.2,2237.4,Female,Oncology,None,Improved
+P1112,45,58,49.6,4932.7,Female,Orthopedics,Private,Recovered
+P1113,57,25,50.9,5922.11,Other,Oncology,None,Improved
+P1114,40,52,86.9,10698.36,Male,Neurology,Government,Recovered
+P1115,23,48,47.1,4466.95,Female,Neurology,Government,Deceased
+P1116,50,38,54.5,5310.92,Other,Neurology,Government,Recovered
+P1117,37,50,49.5,6045.26,Female,Pediatrics,None,Deceased
+P1118,46,28,32.5,3412.78,Male,Cardiology,Private,Critical
+P1119,48,45,67.1,8108.75,Female,Orthopedics,Private,Deceased
+P1120,9,7,61.3,7298.21,Other,Neurology,Government,Improved
+P1121,44,25,61.9,7532.05,Male,Oncology,None,Deceased
+P1122,60,37,36.4,4065.8,Other,Pediatrics,Government,Recovered
+P1123,58,23,71.0,6813.61,Other,General Medicine,Private,Deceased
+P1124,81,24,29.0,3973.47,Male,Pediatrics,Government,Recovered
+P1125,52,37,58.8,5832.03,Female,Cardiology,Government,Recovered
+P1126,22,55,82.9,10273.76,Other,Oncology,Private,Deceased
+P1127,74,3,35.1,4918.97,Female,Oncology,None,Improved
+P1128,64,57,41.5,5155.94,Male,Cardiology,None,Deceased
+P1129,3,24,51.5,4753.82,Female,Orthopedics,Private,Recovered
+P1130,90,41,42.4,4114.76,Male,Neurology,None,Improved
+P1131,84,26,26.7,3196.31,Female,Cardiology,Private,Recovered
+P1132,21,33,51.0,6541.74,Other,Pediatrics,Government,Improved
+P1133,69,8,34.1,4657.47,Male,Cardiology,Private,Critical
+P1134,4,2,57.1,6027.08,Female,Orthopedics,Private,Deceased
+P1135,47,28,36.2,3661.81,Female,Oncology,None,Deceased
+P1136,84,38,73.2,7050.7,Other,Cardiology,Private,Deceased
+P1137,82,43,38.3,3498.72,Other,Oncology,Government,Deceased
+P1138,68,54,45.2,5702.04,Male,Cardiology,None,Deceased
+P1139,85,54,62.2,6496.01,Female,Neurology,Government,Deceased
+P1140,12,37,31.5,4505.8,Male,Cardiology,Private,Improved
+P1141,32,36,53.4,5390.71,Male,Neurology,Private,Deceased
+P1142,27,54,69.6,8321.03,Female,Oncology,None,Improved
+P1143,80,38,25.9,2464.26,Other,Neurology,Government,Improved
+P1144,64,37,52.8,5470.62,Other,Cardiology,None,Recovered
+P1145,39,31,53.9,4484.41,Female,Neurology,Private,Critical
+P1146,26,12,61.7,6995.21,Female,General Medicine,Private,Improved
+P1147,40,40,31.4,3986.79,Male,General Medicine,Government,Critical
+P1148,28,22,30.2,3480.92,Female,Neurology,Government,Improved
+P1149,75,19,57.8,4988.42,Male,Pediatrics,Government,Recovered
+P1150,22,39,54.5,5213.17,Female,Oncology,Private,Critical
+P1151,52,2,53.8,6617.21,Male,Pediatrics,Private,Recovered
+P1152,77,30,55.2,5361.24,Other,Oncology,Private,Improved
+P1153,66,29,39.8,4226.03,Male,General Medicine,Private,Recovered
+P1154,82,9,53.5,6509.43,Other,Cardiology,Private,Recovered
+P1155,48,42,54.4,5579.24,Male,Orthopedics,None,Recovered
+P1156,84,51,39.3,3876.25,Female,Cardiology,Private,Critical
+P1157,47,23,78.0,8050.78,Other,General Medicine,Private,Deceased
+P1158,39,21,57.1,7128.77,Female,Pediatrics,None,Recovered
+P1159,43,49,32.1,3858.68,Female,Neurology,Government,Deceased
+P1160,75,15,59.8,5350.65,Other,General Medicine,Government,Recovered
+P1161,8,1,35.4,3840.35,Other,Neurology,Private,Recovered
+P1162,90,40,61.8,6234.36,Male,General Medicine,Government,Recovered
+P1163,7,21,67.4,7864.52,Female,Pediatrics,Government,Improved
+P1164,90,45,37.7,4692.89,Other,Oncology,None,Recovered
+P1165,89,38,64.5,7175.47,Other,Orthopedics,None,Deceased
+P1166,20,27,56.2,5550.16,Female,Orthopedics,None,Recovered
+P1167,4,58,62.3,7652.34,Male,Orthopedics,Private,Improved
+P1168,39,9,78.5,7245.08,Female,Orthopedics,Government,Recovered
+P1169,42,9,46.3,4772.74,Male,Orthopedics,Government,Deceased
+P1170,49,38,38.7,4199.93,Other,General Medicine,None,Recovered
+P1171,66,25,36.7,4022.27,Male,Neurology,None,Deceased
+P1172,57,48,37.8,4477.01,Other,Neurology,Government,Deceased
+P1173,62,24,48.8,4943.15,Other,Cardiology,Private,Recovered
+P1174,63,22,55.1,6370.61,Male,Oncology,Government,Improved
+P1175,35,45,54.2,5252.95,Female,Neurology,Government,Deceased
+P1176,26,50,62.4,7570.48,Other,Cardiology,None,Critical
+P1177,81,55,50.2,5048.27,Male,Oncology,None,Deceased
+P1178,80,53,71.8,6716.61,Female,General Medicine,None,Deceased
+P1179,52,26,46.0,4867.22,Male,Pediatrics,Government,Deceased
+P1180,76,49,90.8,8425.71,Female,Oncology,None,Improved
+P1181,77,38,59.4,6943.44,Male,General Medicine,Private,Recovered
+P1182,62,9,37.1,4070.39,Other,Neurology,Government,Critical
+P1183,18,18,33.9,3444.65,Male,Cardiology,Government,Deceased
+P1184,85,11,57.2,6275.93,Other,Neurology,Private,Recovered
+P1185,71,33,46.6,6013.45,Other,General Medicine,None,Critical
+P1186,61,40,60.7,5580.11,Other,Oncology,Government,Improved
+P1187,52,34,57.1,5911.82,Other,Orthopedics,Government,Critical
+P1188,43,55,48.9,4728.14,Male,Oncology,Government,Critical
+P1189,13,56,37.3,3900.94,Other,Neurology,Private,Deceased
+P1190,13,21,27.3,3268.85,Other,General Medicine,None,Recovered
+P1191,24,9,43.3,5415.6,Male,General Medicine,Government,Deceased
+P1192,38,32,62.8,7076.89,Other,Cardiology,None,Recovered
+P1193,86,40,53.2,5632.48,Male,Orthopedics,Government,Deceased
+P1194,53,46,31.3,3171.04,Female,Pediatrics,None,Critical
+P1195,24,51,52.6,5759.79,Female,Neurology,Government,Deceased
+P1196,45,56,55.8,6794.29,Other,Oncology,None,Recovered
+P1197,60,23,36.7,4062.01,Female,Oncology,None,Recovered
+P1198,62,53,52.3,5264.35,Male,Orthopedics,None,Deceased
+P1199,42,14,50.9,5341.43,Male,Neurology,Government,Recovered
+P1200,74,9,32.9,2960.26,Male,Oncology,None,Deceased
+P1201,41,30,55.4,5507.82,Other,Pediatrics,Private,Deceased
+P1202,59,14,58.4,7243.72,Female,Cardiology,None,Recovered
+P1203,39,37,66.2,7713.24,Other,Oncology,None,Recovered
+P1204,8,39,65.8,5967.03,Male,General Medicine,Private,Improved
+P1205,29,8,29.3,2994.77,Other,Oncology,None,Critical
+P1206,1,47,35.9,3672.45,Male,Orthopedics,None,Deceased
+P1207,2,9,57.7,5434.2,Male,Cardiology,None,Improved
+P1208,13,7,57.7,5599.14,Male,Cardiology,Private,Recovered
+P1209,26,23,57.7,5973.8,Male,Oncology,None,Deceased
+P1210,5,35,100.0,10013.86,Male,General Medicine,None,Deceased
+P1211,60,49,58.6,7609.86,Other,Orthopedics,Private,Deceased
+P1212,71,39,67.0,6221.66,Female,Orthopedics,Private,Deceased
+P1213,9,44,64.3,5810.0,Female,General Medicine,Private,Recovered
+P1214,34,11,59.8,5944.98,Female,Pediatrics,Private,Improved
+P1215,71,41,45.3,5312.81,Female,Orthopedics,Private,Improved
+P1216,21,15,61.4,7441.35,Male,Cardiology,None,Recovered
+P1217,74,8,38.4,4960.66,Other,Cardiology,Private,Critical
+P1218,30,31,46.4,5036.45,Other,Oncology,None,Improved
+P1219,30,45,42.7,4069.48,Female,Orthopedics,Private,Improved
+P1220,77,7,51.2,5373.09,Male,Orthopedics,Government,Improved
+P1221,30,45,84.7,8861.69,Male,General Medicine,Private,Improved
+P1222,19,25,22.0,2166.38,Female,Oncology,None,Recovered
+P1223,29,36,60.3,5971.47,Male,General Medicine,Government,Improved
+P1224,10,30,25.8,3276.84,Other,Neurology,Government,Improved
+P1225,35,16,42.9,5173.91,Female,Pediatrics,Government,Critical
+P1226,44,32,66.3,6325.61,Other,General Medicine,Government,Critical
+P1227,9,22,51.0,5040.59,Female,Oncology,None,Improved
+P1228,26,20,33.8,4379.14,Other,General Medicine,Government,Deceased
+P1229,44,28,39.3,3992.07,Other,Neurology,Government,Critical
+P1230,52,19,60.2,6314.7,Female,Oncology,Private,Recovered
+P1231,63,57,39.0,4543.25,Male,Cardiology,Government,Critical
+P1232,77,54,53.2,5179.95,Female,Orthopedics,None,Critical
+P1233,83,8,50.7,5803.77,Male,Neurology,Private,Recovered
+P1234,75,50,40.2,4909.47,Female,General Medicine,Government,Improved
+P1235,29,41,82.2,8807.28,Female,Orthopedics,Government,Recovered
+P1236,56,44,59.5,7034.73,Female,Orthopedics,Government,Recovered
+P1237,53,21,19.6,2447.08,Other,Orthopedics,Private,Recovered
+P1238,85,34,52.8,5929.32,Female,General Medicine,None,Recovered
+P1239,58,32,40.1,3947.94,Male,Orthopedics,Government,Critical
+P1240,9,14,62.8,7096.19,Female,Pediatrics,None,Improved
+P1241,17,10,38.1,3987.78,Male,General Medicine,None,Improved
+P1242,1,58,48.3,6342.1,Female,Neurology,None,Improved
+P1243,48,9,57.6,7379.76,Female,Pediatrics,Government,Deceased
+P1244,22,31,63.0,6887.62,Other,Oncology,Private,Critical
+P1245,46,47,32.0,4677.04,Other,Pediatrics,None,Recovered
+P1246,65,39,45.0,5982.48,Male,Orthopedics,Private,Critical
+P1247,28,55,42.9,5339.1,Female,Pediatrics,Government,Deceased
+P1248,19,31,40.2,4293.64,Male,Orthopedics,None,Recovered
+P1249,29,18,76.5,8912.38,Female,Orthopedics,Government,Recovered
+P1250,26,55,56.1,6798.33,Other,Orthopedics,Private,Recovered
+P1251,37,24,31.1,3603.08,Male,Orthopedics,Private,Critical
+P1252,57,37,63.8,6328.64,Male,Neurology,Government,Improved
+P1253,34,1,81.8,10215.64,Other,Orthopedics,Private,Improved
+P1254,84,55,65.5,6672.36,Other,Cardiology,Government,Improved
+P1255,25,19,27.2,3776.32,Male,Pediatrics,Private,Critical
+P1256,71,12,42.7,4090.02,Male,Neurology,Government,Deceased
+P1257,32,50,69.0,7130.05,Female,Cardiology,None,Critical
+P1258,31,16,39.4,4302.83,Female,Cardiology,None,Improved
+P1259,16,14,56.7,6295.45,Other,Neurology,Private,Recovered
+P1260,16,23,61.6,6403.64,Other,Oncology,Private,Deceased
+P1261,34,15,36.1,4758.29,Male,Oncology,Government,Improved
+P1262,67,10,49.1,5691.02,Male,Pediatrics,Government,Deceased
+P1263,90,56,1.4,1111.41,Female,Pediatrics,None,Deceased
+P1264,27,35,34.6,3956.32,Male,Orthopedics,Private,Critical
+P1265,78,54,46.2,4814.58,Male,Orthopedics,None,Deceased
+P1266,7,37,31.3,4016.0,Female,Pediatrics,None,Deceased
+P1267,41,53,74.5,8019.87,Other,Orthopedics,Government,Deceased
+P1268,40,30,28.5,2545.56,Other,Oncology,Government,Improved
+P1269,27,31,43.4,5353.86,Female,Oncology,Government,Critical
+P1270,59,7,52.0,5610.48,Male,Pediatrics,Private,Improved
+P1271,18,43,71.6,7710.66,Other,Neurology,Government,Deceased
+P1272,78,27,28.5,4164.82,Male,Neurology,Government,Improved
+P1273,83,31,67.4,8035.85,Female,Cardiology,None,Improved
+P1274,24,3,50.2,4794.3,Male,General Medicine,Private,Critical
+P1275,14,22,35.3,4652.2,Male,Pediatrics,None,Deceased
+P1276,15,57,56.9,4972.85,Other,Neurology,None,Critical
+P1277,62,31,53.0,5860.14,Male,General Medicine,None,Improved
+P1278,1,1,41.0,3893.05,Female,Oncology,None,Improved
+P1279,23,34,51.0,5065.59,Male,Pediatrics,Private,Improved
+P1280,18,24,44.2,5196.33,Male,Neurology,None,Critical
+P1281,17,46,51.7,5543.2,Male,Neurology,Private,Recovered
+P1282,64,58,59.9,5702.68,Male,Pediatrics,None,Recovered
+P1283,4,56,73.8,8609.43,Male,Cardiology,Private,Recovered
+P1284,45,31,31.4,3240.76,Male,Orthopedics,Government,Improved
+P1285,14,15,82.0,7390.37,Female,General Medicine,None,Deceased
+P1286,42,9,20.7,2789.53,Female,Cardiology,None,Recovered
+P1287,75,7,47.7,5488.21,Male,General Medicine,Private,Improved
+P1288,57,12,58.8,5868.25,Female,General Medicine,Government,Recovered
+P1289,70,22,54.2,5419.06,Male,Cardiology,Government,Recovered
+P1290,80,44,40.7,4804.73,Other,General Medicine,Private,Improved
+P1291,73,18,46.9,5716.39,Male,Oncology,None,Deceased
+P1292,1,1,42.6,4489.99,Other,General Medicine,Government,Recovered
+P1293,33,9,41.2,5402.13,Female,Cardiology,Private,Deceased
+P1294,63,7,62.7,6619.05,Other,Pediatrics,Private,Deceased
+P1295,67,34,55.4,7051.77,Female,General Medicine,Private,Critical
+P1296,14,27,39.6,4120.0,Other,General Medicine,Government,Critical
+P1297,68,2,63.5,7077.37,Female,Oncology,Government,Recovered
+P1298,61,21,54.6,6415.9,Male,Pediatrics,Government,Improved
+P1299,18,47,62.2,7338.03,Male,Orthopedics,Private,Critical
+P1300,75,35,59.4,6911.66,Female,Neurology,None,Improved
+P1301,34,22,37.6,4602.6,Female,General Medicine,Government,Deceased
+P1302,12,38,41.6,4127.93,Other,Cardiology,None,Improved
+P1303,68,33,61.2,7272.11,Male,Neurology,Government,Recovered
+P1304,33,37,59.2,5671.13,Other,Oncology,Government,Recovered
+P1305,43,42,49.7,4947.12,Female,Cardiology,Government,Deceased
+P1306,73,58,51.8,4745.68,Female,Oncology,Private,Critical
+P1307,9,49,69.2,7181.71,Female,Cardiology,Government,Improved
+P1308,36,47,41.1,4806.45,Male,Oncology,Private,Critical
+P1309,19,22,58.2,6170.0,Other,Cardiology,None,Deceased
+P1310,2,39,47.0,5892.14,Female,Neurology,Government,Recovered
+P1311,45,57,46.7,5762.06,Other,Pediatrics,Government,Improved
+P1312,49,34,66.5,5911.75,Other,Oncology,None,Deceased
+P1313,19,13,62.4,6317.76,Male,Orthopedics,None,Deceased
+P1314,9,28,62.2,7511.63,Female,Neurology,Private,Improved
+P1315,5,28,69.6,8346.11,Female,Oncology,Private,Deceased
+P1316,20,9,50.3,6004.79,Female,Cardiology,None,Recovered
+P1317,87,50,60.2,6344.5,Other,Oncology,None,Deceased
+P1318,9,47,45.3,5978.45,Male,Orthopedics,Government,Recovered
+P1319,68,31,54.9,5178.58,Other,Cardiology,None,Improved
+P1320,68,53,48.0,5511.04,Male,Orthopedics,Private,Recovered
+P1321,62,60,51.5,4615.98,Female,Pediatrics,Government,Improved
+P1322,89,59,58.9,7214.6,Other,Neurology,Private,Critical
+P1323,14,39,37.7,4251.84,Male,Orthopedics,None,Critical
+P1324,54,37,81.4,8377.93,Male,Cardiology,None,Critical
+P1325,76,30,34.9,4647.48,Female,Oncology,None,Critical
+P1326,61,52,31.8,3866.14,Male,General Medicine,Private,Recovered
+P1327,88,58,67.4,5790.27,Female,Orthopedics,Government,Recovered
+P1328,43,13,61.9,5910.34,Male,Oncology,Government,Deceased
+P1329,28,2,59.4,5929.6,Female,General Medicine,None,Critical
+P1330,22,31,59.4,6749.31,Other,General Medicine,Government,Deceased
+P1331,15,51,49.8,6549.24,Other,Neurology,None,Deceased
+P1332,35,38,36.5,3771.26,Male,General Medicine,Government,Critical
+P1333,2,13,51.1,5884.15,Male,Orthopedics,None,Recovered
+P1334,14,50,39.8,4538.75,Other,Neurology,None,Recovered
+P1335,50,43,64.6,8140.16,Male,Oncology,None,Deceased
+P1336,35,46,47.8,4428.08,Male,Neurology,None,Recovered
+P1337,20,20,37.6,4529.77,Male,Neurology,Private,Improved
+P1338,53,50,45.2,5296.77,Female,Cardiology,Government,Improved
+P1339,16,56,56.2,5528.52,Male,Neurology,Government,Deceased
+P1340,63,35,41.5,4487.52,Female,Cardiology,Government,Critical
+P1341,40,48,37.7,3254.17,Male,Pediatrics,Private,Deceased
+P1342,3,23,53.7,5977.9,Male,Orthopedics,Government,Improved
+P1343,5,7,53.7,5563.74,Other,Pediatrics,Government,Recovered
+P1344,2,58,42.4,5260.89,Other,Pediatrics,Private,Recovered
+P1345,44,27,42.9,4825.33,Other,Oncology,None,Deceased
+P1346,31,17,53.5,5653.79,Male,General Medicine,Government,Improved
+P1347,49,13,28.3,3114.73,Female,Pediatrics,Private,Deceased
+P1348,25,26,28.9,3619.5,Other,Neurology,None,Recovered
+P1349,15,44,39.2,5372.55,Male,Oncology,Government,Deceased
+P1350,61,30,46.8,4653.36,Male,Neurology,Government,Critical
